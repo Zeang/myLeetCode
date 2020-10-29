@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// 栈
 class Solution {
 public:
     int longestValidParentheses(string s) {

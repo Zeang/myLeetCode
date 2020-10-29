@@ -2,7 +2,7 @@
 #include <string>
 
 using namespace std;
-
+// 动态规划
 class Solution {
 public:
     int longestValidParentheses(string s) {
